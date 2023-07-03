@@ -3,3 +3,5 @@
 *.ko
 *.mod
 *.mod.c
+mod*
+Mod*
